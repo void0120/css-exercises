@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.odd-numbered-element { 
+    background-color: #ff000050;
+    font-family: Verdana , "DejaVu Sans" , sans-serif;
+}
+#id1 { 
+    color: blue;
+    font-size: 36px;
+}
+#id2 { 
+    background-color: #00ff0050;
+    font-size: 24px;
+    font-weight: bold;
+}
